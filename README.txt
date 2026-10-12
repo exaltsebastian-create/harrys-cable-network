@@ -1,0 +1,1 @@
+Phase 1: 7 products with externally hosted online photos, individual details and enquiries. No uploaded reference photos included. Rename/use shop.html for preview. Do not replace live shop unless satisfied. External image hosts may block images; obtain image reuse permission before publishing. Remaining catalogue products are intentionally withheld until researched.
